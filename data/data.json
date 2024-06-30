@@ -1,0 +1,9 @@
+{
+    "trees": [
+        { "name": "Quercia", "height": 30 },
+        { "name": "Pino", "height": 40 },
+        { "name": "Betulla", "height": 25 },
+        { "name": "Acero", "height": 35 },
+        { "name": "Olmo", "height": 30 }
+    ]
+}
